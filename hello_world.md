@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dugcar
-- 👀 I’m interested in bioinformatics, especially NGS.
+- 👀 I’m interested in bioinformatics, especially next generation sequencing (NGS) data.
 - 🌱 I’m currently learning how to use Github :)
 - 💞️ I’m looking to collaborate with great minds.
 - 📫 How to reach me erdogandugcar@gmail.com
